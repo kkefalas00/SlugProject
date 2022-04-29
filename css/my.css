@@ -1,0 +1,42 @@
+.nav1{
+	font-size:15pt;
+	margin-top:10px;
+}
+
+#epik a{
+	font-size:15pt;
+	
+}
+
+#epik a:hover{
+	
+	color:blue;
+	transition-duration:0.4s;
+}
+
+#epik a{
+	
+	transition-duration:0.4s;
+}
+
+#myNavbar a:hover{
+	
+	color:blue;
+	transition-duration:0.4s;
+}
+
+#myNavbar a{
+	transition-duration:0.4s;
+	
+}
+
+#counter:hover{
+	
+	color:blue;
+	transition-duration:0.5s;
+}
+
+#counter{
+	transition-duration:0.5s;
+	
+}
